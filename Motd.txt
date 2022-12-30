@@ -1,8 +1,6 @@
 OFFICIAL LAUNCH OF SPACEMONKS IS HERE!
 UPDATE PROS:
--NAME SAVING
--FIXED 0 GRAVITY
--added easy way to get on and across level 2
--fixed hole in wall
-
+-Added a slide
+-Moved Spawn
+-Added a player model(NO TEXTURE YET)
 -Bmix
